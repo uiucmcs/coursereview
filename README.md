@@ -1,2 +1,2 @@
-# coursereview
-UIUC Online MCS Course Review 
+# UIUC OMCS Course Planner
+Simple online community where UIUC OMCS students can leave ratings and reviews based on course, professor, teaching assistant and term.
